@@ -1,6 +1,6 @@
 # send-messages-between-iframes
 
-**CALL PARENT FUNCTION BY A CHILD IFRAME FUNCTION( IFRAME TO PARENT PAGE )**
+**1. CALL PARENT FUNCTION BY A CHILD IFRAME FUNCTION( IFRAME TO PARENT PAGE )**
 
 in parent page:
 ```html
@@ -36,7 +36,7 @@ In frame page:
 </script>
 ```
 
-**CALL IFRAME FUNCTION BY A PARENT PAGE( PARENT PAGE TO IFRAME )**
+**2. CALL IFRAME FUNCTION BY A PARENT PAGE( PARENT PAGE TO IFRAME )**
 
 in parent page:
 ```html
